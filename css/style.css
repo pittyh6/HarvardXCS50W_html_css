@@ -10,7 +10,9 @@ body {
 }
 
 .header a {
-    padding: 0 1rem;
+    padding: 0 10px;
+    color: black;
+    font-size: 14px;
 }
 
 
